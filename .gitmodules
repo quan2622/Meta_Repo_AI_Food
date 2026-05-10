@@ -1,15 +1,20 @@
 [submodule "AI_Food_Client"]
 	path = AI_Food_Client
 	url = https://github.com/quan2622/AI_Food_Client.git
+	branch = master
 [submodule "AI_Food_Admin"]
 	path = AI_Food_Admin
 	url = https://github.com/quan2622/AI_Food_Admin.git
+	branch = master
 [submodule "AI_Food_Backend_Services"]
 	path = AI_Food_Backend_Services
 	url = https://github.com/quan2622/AI_Food_Backend_Services.git
+	branch = master
 [submodule "AI_Food_Classification_Service"]
 	path = AI_Food_Classification_Service
 	url = https://github.com/quan2622/AI_Food_Classification_Service.git
+	branch = master
 [submodule "AI_Food_Recommendation_Service"]
 	path = AI_Food_Recommendation_Service
 	url = https://github.com/quan2622/AI_Food_Recommendation_Service.git
+	branch = master
