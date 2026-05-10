@@ -1,4 +1,4 @@
-# 🍽️ AI Food Analytics & Recommendation Ecosystem
+# 🍽️ Vietnamese Food Nutrition Analysis using Computer Vision
 
 > An Advanced Microservices-based Platform for Food Recognition, Nutrition Tracking, and Personalized Recommendations.
 
