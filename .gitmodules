@@ -1,0 +1,15 @@
+[submodule "FE/AI_Food_Client"]
+	path = FE/AI_Food_Client
+	url = https://github.com/quan2622/AI_Food_Client.git
+[submodule "FE/AI_Food_Admin"]
+	path = FE/AI_Food_Admin
+	url = https://github.com/quan2622/AI_Food_Admin.git
+[submodule "BE/AI_Food_Backend_Services"]
+	path = BE/AI_Food_Backend_Services
+	url = https://github.com/quan2622/AI_Food_Backend_Services.git
+[submodule "BE/AI_Food_Classification_Service"]
+	path = BE/AI_Food_Classification_Service
+	url = https://github.com/quan2622/AI_Food_Classification_Service.git
+[submodule "BE/AI_Food_Recommendation_Service"]
+	path = BE/AI_Food_Recommendation_Service
+	url = https://github.com/quan2622/AI_Food_Recommendation_Service.git
