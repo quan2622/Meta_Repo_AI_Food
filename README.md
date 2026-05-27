@@ -1,4 +1,4 @@
-# 🍽️ Vietnamese Food Nutrition Analysis using Computer Vision
+# 🍽️ AI-Powered Personalized Nutrition Tracking and Analysis Application
 
 > An Advanced Microservices-based Platform for Food Recognition, Nutrition Tracking, and Personalized Recommendations.
 
